@@ -2,21 +2,19 @@
 FIRUTI Bogdan-Cristian 341C3
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!! Disclaimer !!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!   In momentul rularii se va bloca terminalul     !!
-!! curent si se va deschide o fereastra de tip      !!
-!! ncurses in care va boot-a sistemul. Abia         !!
-!! dupa introducerea, in pagina web care se gaseste !!
-!! la adresa (tema2.local) in browser, a unui brad  !!
-!! acesta va fi afisat.                             !!
-!!   In plus, pagina web va fi afisata dupa ce va   !!
-!! termina script-ul Python de initializat si pe    !!
-!! ecran va aparea o line care contine textul       !!
-!! "0.0.0.0/80".                                    !!
-!!    Dureaza cateva secunde tot procesul de init   !!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Disclaimer
+
+   In momentul rularii se va bloca terminalul     
+ curent si se va deschide o fereastra de tip      
+ ncurses in care va boot-a sistemul. Abia         
+ dupa introducerea, in pagina web care se gaseste 
+ la adresa (tema2.local) in browser, a unui brad  
+ acesta va fi afisat.                             
+   In plus, pagina web va fi afisata dupa ce va   
+ termina script-ul Python de initializat si pe    
+ ecran va aparea o line care contine textul       
+ "0.0.0.0/80".                                    
+    Dureaza cateva secunde tot procesul de init   
 
 
 Tema 2 SI
