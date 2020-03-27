@@ -1,0 +1,1 @@
+rpi-basic-image.img filter=lfs diff=lfs merge=lfs -text
